@@ -2,19 +2,22 @@
 
 ## **Goals**
 
-The goal of this project is to allow users to practice maintaining a portfolio without having to spend any real money. 
-Each user will create a profile so that their portfolio is saved and can be managed for as long they please.
+The goal of this project is to allow users to practice maintaining a portfolio without having to spend any real money. Each user will create a profile so that their portfolio is saved and can be managed for as long they please.
 
 ## **Context**
 
-Paper trading web sites are intended to let users practice managing a stock portfolio without risking any of their own money. 
-The intended purpose of this project is to teach the user money management and risk assessment skills that can translate into 
-managing their real portfolio.
+Paper trading web sites are intended to let users practice managing a stock portfolio without risking any of their own money. The intended purpose of this project is to teach the user money management and risk assessment skills that can translate into managing their real portfolio. Most financial institutions provide paper trading websites as well to learn how to invest on their platform.
+
+Examples:
+
+[Webull](https://www.webull.com/activity?inviteCode=JPPNNvFEcmY1&inviteSource=wb_inf&source=finixio)
+[eTorro](https://go.etoro.com/en/practice-account?dl=30002029&utm_medium=Affiliate&utm_source=77731&utm_content=0&utm_serial=__fx_b8338_90618bd8ed4252ea7bfde4f2c9a4a925_1&utm_campaign=__fx_b8338_90618bd8ed4252ea7bfde4f2c9a4a925_1&utm_term=)
+
+Most of these services offer free and paid versions of their paper trading platforms. Some of them limit restrictions to which types of investments you can buy unless you upgrade your account to a paid version. I would like to provide the same or more functionality completely free. 
 
 ## **Novelty**
 
-My website will provide aggregated tips and information to help the user make good decisions. Some things that I would like
-to include are: an analysis of all good and bad trades, tips to make better trades, and an overall portfolio analysis.
+My website will provide aggregated tips and information to help the user make good decisions. Some things that I would like to include are: an analysis of all good and bad trades, tips to make better trades, and an overall portfolio analysis.
 
 ## **Functionality**
 
@@ -45,9 +48,7 @@ Measues I will use are as follows:
 
 ## **Motivation**
 
-I have always been interested with financial literacy and I feel like it is an important thing to have to acheive financial indipendence.
-Personally I wanted to learn new frameworks and languages as my main motivation. This project will provide experience developing using the Spring 
-framework as the backend with a Angular as the frontend framework. I will also learn how to utilize a REST API to bring in data to be used in my application.\
+I have always been interested with financial literacy and I feel like it is an important thing to have to acheive financial indipendence. Personally I wanted to learn new frameworks and languages as my main motivation. This project will provide experience developing using the Spring framework as the backend with a Angular as the frontend framework. I will also learn how to utilize a REST API to bring in data to be used in my application.
 
 ## **Future Extensions**
 
