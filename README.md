@@ -1,5 +1,8 @@
 # *PaperTrader*
 
+# Project Concept
+
+[Concept](concept.md)
 
 ## Description
 
