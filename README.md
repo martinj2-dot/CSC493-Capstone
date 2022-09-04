@@ -1,8 +1,16 @@
 # *PaperTrader*
 
-# Project Concept
+## Project Concept
 
 [Project Concept](concept.md)
+
+## Scope
+
+The scope of the project is to provide users with the ability to manage an investment portfolio without using real money. Features such as: tailoring the porfolio to that person, providing a portfolio analysis to the user, financial information displayed to the user, are the main focus of the website. A REST API could be developed from this website that could show what people are investing in. 
+
+## Vision
+
+A robust investment platform that is tailored to the user. The website will allow users to gain a senese of financial literacy to use when investing in their own portfolio.
 
 ## Description
 
