@@ -11,6 +11,7 @@ Paper trading web sites are intended to let users practice managing a stock port
 Examples:
 
 [Webull](https://www.webull.com/activity?inviteCode=JPPNNvFEcmY1&inviteSource=wb_inf&source=finixio)
+
 [eTorro](https://go.etoro.com/en/practice-account?dl=30002029&utm_medium=Affiliate&utm_source=77731&utm_content=0&utm_serial=__fx_b8338_90618bd8ed4252ea7bfde4f2c9a4a925_1&utm_campaign=__fx_b8338_90618bd8ed4252ea7bfde4f2c9a4a925_1&utm_term=)
 
 Most of these services offer free and paid versions of their paper trading platforms. Some of them limit restrictions to which types of investments you can buy unless you upgrade your account to a paid version. I would like to provide the same or more functionality completely free. 
