@@ -15,7 +15,9 @@ Nothing is required to run PaperTrader as it is a website.
 
 ## Author
 
-- **Joey Martin**: *PaperTrader* [LinkedIn](www.linkedin.com/in/joey-martin-8727641a1) [GitHub](https://github.com/martinj2-dot)
+- **Joey Martin**: *PaperTrader* 
+- [LinkedIn](www.linkedin.com/in/joey-martin-8727641a1) 
+- [GitHub](https://github.com/martinj2-dot)
 
 ## Acknowledgments
 
