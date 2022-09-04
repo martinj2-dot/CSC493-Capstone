@@ -2,7 +2,7 @@
 
 # Project Concept
 
-[Concept](concept.md)
+[Project Concept](concept.md)
 
 ## Description
 
