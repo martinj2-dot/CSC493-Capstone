@@ -27,3 +27,6 @@ Nothing is required to run PaperTrader as it is a website.
 
 ## License 
 
+## Links
+
+[Concept](concept.md)
