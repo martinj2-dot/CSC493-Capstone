@@ -1,4 +1,6 @@
 # *PaperTrader*
+
+
 ## Description
 
 PaperTrader is a paper trading web application for users to practice trading stocks without spending any money. 
