@@ -13,3 +13,6 @@ The user creates a user profile where they are instructed to setup a personalize
 
 **portfolioHandler**: Handles user data and stock data to display to a users portfolio page.
 
+### System Flow
+
+<img src="images/paperTrader.drawio (1).png">
