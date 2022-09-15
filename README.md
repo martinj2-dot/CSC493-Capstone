@@ -4,9 +4,6 @@
 
 [Project Concept](concept.md)
 
-## SRS
-
-[Requirements](requirements.md)
 
 ## Scope
 
@@ -20,9 +17,17 @@ A robust investment platform that is tailored to the user. The website will allo
 
 PaperTrader is a paper trading web application for users to practice trading stocks without spending any money. The application is focused on tailoring the portfolio management experience toward the user by providing: individualized stock recommendations, and portfolio analysis. 
 
-### Prerequisites
+## Prerequisites
 
 Nothing is required to run PaperTrader as it is a website.
+
+## Requirements
+
+[Requirements](requirements.md)
+
+## Design
+
+[Design](desgin.md)
 
 ## Built With
 
