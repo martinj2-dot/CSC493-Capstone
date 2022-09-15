@@ -27,7 +27,7 @@ Nothing is required to run PaperTrader as it is a website.
 
 ## Design
 
-[Design](desgin.md)
+[Design](design.md)
 
 ## Built With
 
