@@ -49,8 +49,7 @@ Nothing is required to run PaperTrader as it is a website.
 
 ## License 
 [Logo License](/Files/license.pdf)
-
-Candlestick logo designed by Andinur from Flaticon <a href="https://www.flaticon.com/free-icons/stocks" title="stocks icons">Stocks icons created by andinur - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/stocks" title="stocks icons">Stocks icons created by andinur - Flaticon</a>
 ## Links
 
 [Concept](concept.md)
