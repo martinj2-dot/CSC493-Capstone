@@ -48,7 +48,7 @@ Nothing is required to run PaperTrader as it is a website.
 - Zach Neill for his knowledge of Spring and Angular web development help.
 
 ## License 
-
+<a href="https://www.flaticon.com/free-icons/stocks" title="stocks icons">Stocks icons created by andinur - Flaticon</a>
 ## Links
 
 [Concept](concept.md)
