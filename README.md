@@ -52,7 +52,7 @@ Nothing is required to run PaperTrader as it is a website.
 
 <a href="https://www.flaticon.com/free-icons/stocks" title="stocks icons">Stocks icons created by andinur - Flaticon</a>
 
-<a href="https://www.flaticon.com/free-icons/fly" title="fly icons">Fly icons created by kosonicon - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/dm" title="dm icons">Dm icons created by Maan Icons - Flaticon</a>
 ## Links
 
 [Concept](concept.md)
