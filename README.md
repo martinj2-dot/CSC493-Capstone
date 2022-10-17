@@ -1,5 +1,9 @@
 # *PaperTrader*
 
+## Product Logo 
+
+<img src="images/candlestick(1).png">
+
 ## Project Concept
 
 [Project Concept](concept.md)
