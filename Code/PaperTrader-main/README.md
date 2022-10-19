@@ -1,2 +1,0 @@
-# PaperTrader
-PaperTraderClient Web application
