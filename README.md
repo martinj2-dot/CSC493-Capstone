@@ -33,6 +33,11 @@ Nothing is required to run PaperTrader as it is a website.
 
 [Design](design.md)
 
+## Test Plan
+
+[Test Plan doc](test.plan.md)
+
+
 ## Built With
 
 - [Spring Boot 2.7.3](https://spring.io): Java MVC web framework, backend
