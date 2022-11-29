@@ -56,7 +56,6 @@ The vision for this website was to bring about an easily accessible way for ever
 
 ## Acknowledgments
 
-- If you find code that you are going to use in YourProjectName, include author's name and URL here.
 - Scott Heggen and Brian Ramsay for inspiring a passion for programming.
 - Zach Neill for his knowledge of Spring and Angular web development help.
 
@@ -69,3 +68,5 @@ The vision for this website was to bring about an easily accessible way for ever
 ## Links
 
 [Concept](concept.md)
+
+[Installation and Use Guide](installation.md)
