@@ -32,9 +32,13 @@ public class RouteController {
 
         return "landing";
     }
+
     @RequestMapping(path = "/login")
     @ResponseBody
     public Map loadLogin(@RequestParam String email, @RequestParam String password){
+
+        /* Receives POST request from user login AJAX in login.js */
+
         if(userRepository.existsByUsername(email)){
             if(UserService.getCache().isEmpty()){
                 UserService.setCache("CurrentUser", email);
@@ -49,6 +53,7 @@ public class RouteController {
         }
         return UserService.getCache();
     }
+
     @RequestMapping(path= "/validateUser")
     @ResponseBody
     public List<User> getUser(){
