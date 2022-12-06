@@ -1,6 +1,9 @@
 $(document).ready(function () {
 
     $("#submitButton").click(function () {
+        /**
+         * Tied to the Registration modal submission button
+         * retrieves submitted email and password to be stored in the database*/
 
         let email = $("#emailInput").val()
         let password = $("#passwordInput").val()
