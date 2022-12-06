@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html  lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"></head>
+
+<body>
+<div th:replace="/fragments/header :: header"></div>
+<th:block th:include="/fragments/header :: assets"></th:block>
+
+<div class="chartContainer" style="height: 250px; width: 50%;">
+    <div id="dashboardGraph"></div>
+    <div id="buyAndSellButton">
+        <button id="tradeModalButton" class="btn btn-primary float-end" data-bs-toggle="modal" data-bs-target="#tradeModal" >Trade</button>
+        <button id="livePriceButton" class="btn btn-primary">Live</button>
+        <button id="oneMonthPriceButton" class="btn btn-primary">1M</button>
+        <button id="oneYearPriceButton" class="btn btn-primary">1Y</button>
+    </div>
+</div>
+
+<!-----BuyModal----->
+<div class="modal fade" id="tradeModal" tabindex="-1" aria-labelledby="ModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="ModalLabel">Trade Stock</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <table>
+                    <thead>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Number of Shares:</th>
+                            <td><input type="text" placeholder="Quantity" id="quantityValue"></td>
+                        </tr>
+                        <tr id="currentMarketPriceRow">
+                            <th scope="row">Current Market Price:</th>
+                            <td id="currentMarketPrice" ></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button id="buyStock">Buy</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"   integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="   crossorigin="anonymous"></script>
+    <script src="/dashboard.js"></script>
+    <script src="/base.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+</body>
+</html>
