@@ -73,6 +73,11 @@ public class RouteController {
 
         return "Stock: "+ stock + " Quantity: " + quantity;
     }
+    @RequestMapping(path="/investment")
+    public String loadInvestment(){
+
+        return "investment";
+    }
     @RequestMapping(path= "/registerUser", method = RequestMethod.POST)
     @ResponseBody
     public String registerUser(@RequestBody Map<String, String> data){
@@ -86,11 +91,6 @@ public class RouteController {
     public String getDashboard(){
 
         return "dashboard";
-    }
-    @RequestMapping(path="/investment")
-    public String loadInvestment(){
-
-        return "investment";
     }
 }
 
