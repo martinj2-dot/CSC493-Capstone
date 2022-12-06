@@ -1,3 +1,11 @@
+/*
+This schema is the entire database structure for the web application
+
+tables:
+users
+user_portfolio
+user_investment
+*/
 DROP SCHEMA IF EXISTS public CASCADE;
 create schema if not exists public
 authorization postgres;
