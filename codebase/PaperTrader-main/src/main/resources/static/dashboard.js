@@ -52,8 +52,8 @@ $(document).ready(function(){
                 }
             }
         };
-        const chart = new ApexCharts(document.querySelector("#dashboardGraph"), options);
-        chart.render();
+        const chart = new ApexCharts(document.querySelector("#dashboardGraph"), options);/*Initializes intra-day stock data*/
+        chart.render();/*Renders the chart on client side*/
     });
 
     $("#tradeModalButton").click(function (){
@@ -150,8 +150,8 @@ $(document).ready(function(){
                     }
                 }
             };
-            const chart = new ApexCharts(document.querySelector("#dashboardGraph"), options);
-            chart.render();
+            const chart = new ApexCharts(document.querySelector("#dashboardGraph"), options); /*Initializes monthly stock data*/
+            chart.render(); /*Renders the chart on client side*/
             console.log(options["series"])
         });
 
@@ -202,8 +202,8 @@ $(document).ready(function(){
                     }
                 }
             };
-            const chart = new ApexCharts(document.querySelector("#dashboardGraph"), options);
-            chart.render();
+            const chart = new ApexCharts(document.querySelector("#dashboardGraph"), options); /*Initializes intra-day stock data*/
+            chart.render(); /*Renders the chart on client side*/
             console.log(options["series"])
         });
     });
