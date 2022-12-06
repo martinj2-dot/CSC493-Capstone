@@ -1,3 +1,12 @@
+/*
+This SQL script adds all the test data for the applicaiton.
+
+Adds 2 users
+adds 2 user_portfolios
+adds 2 user_investments
+
+*/
+
 TRUNCATE table users, user_portfolio, user_investment;
 
 
