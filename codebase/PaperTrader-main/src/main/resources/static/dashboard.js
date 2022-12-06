@@ -1,4 +1,8 @@
 $(document).ready(function(){
+    /**
+     * This javascript is utilized for client side scripting to consume the Stock API and display relevant stock
+     * information to be consumed by the reactive graph library
+     * */
     let stockPrice
     const priceData =[]
     $("#investmentSearch").click(function () {
