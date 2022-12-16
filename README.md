@@ -41,8 +41,7 @@ Nothing is required to run PaperTrader as it is a website.
 ## Built With
 
 - [Spring Boot 2.7.3](https://spring.io): Java MVC web framework, backend
-- [Angular](https://angular.io): Front end framework.
-- IntelliJ, WebStorm
+- IntelliJ
 
 ## Author
 
