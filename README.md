@@ -58,6 +58,7 @@ The vision for this website was to bring about an easily accessible way for ever
 
 - Scott Heggen and Brian Ramsay for inspiring a passion for programming.
 - Zach Neill for his knowledge of Spring and Angular web development help.
+- Deanna Wilborne for creating a stimulating learning environment during the Fall 2022 Semester
 
 ## Licenses 
 [Logo License](/Files/license.pdf)
